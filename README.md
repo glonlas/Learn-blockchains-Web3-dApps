@@ -11,7 +11,7 @@ Feel free to send your pull-requests to add new content you think relevant to th
 - [Crypto/DeFi/Web3.0 Web 3.0 learning content](#cryptodefiweb30-web-30-learning-content)
     - [How to contribute?](#how-to-contribute)
     - [Table of content](#table-of-content)
-    - [Understand what is blockchain](#understand-what-is-blockchain)
+    - [Understand what is a blockchain](#understand-what-is-a-blockchain)
         - [Deep dive:](#deep-dive)
         - [Official Development documentation](#official-development-documentation)
     - [What is a consensus? What type of consensus exists?](#what-is-a-consensus-what-type-of-consensus-exists)
@@ -49,7 +49,7 @@ Feel free to send your pull-requests to add new content you think relevant to th
 
 <!-- /TOC -->
 
-## Understand what is blockchain
+## Understand what is a blockchain
 
 1. What is a blockchain
     1. [Technical explanation of a blockchain](https://www.youtube.com/watch?v=Jp7T9qtuRIE&ab_channel=DistributedSystemsCourse) (3 min video)

@@ -35,7 +35,10 @@ Feel free to send your pull-requests to add new content you think relevant to th
             - [Blockchain (Smart Contract) EVM env:](#blockchain-smart-contract-evm-env)
             - [Frontend Dev env:](#frontend-dev-env)
         - [Building on Solana network](#building-on-solana-network)
-        - [How to connect a Wallet with Wallet connect](#how-to-connect-a-wallet-with-wallet-connect)
+        - [How to connect a Wallet to a dApp](#how-to-connect-a-wallet-to-a-dapp)
+            - [Ethereum](#ethereum)
+            - [Solana](#solana)
+            - [Cardano](#cardano)
 - [Appendix](#appendix)
     - [Energy consumption and environmental footprint](#energy-consumption-and-environmental-footprint)
     - [Security exploit and past errors to be aware of](#security-exploit-and-past-errors-to-be-aware-of)
@@ -249,9 +252,20 @@ Deep dive:
 * [Solana dev doc](https://docs.solana.com/)
 * [Solang a Solidity compiler for Solana](https://solang.readthedocs.io/en/latest/)
 
-### How to connect a Wallet with Wallet connect
+### How to connect a Wallet to a dApp
 
-[What is Wallet connect?](https://www.youtube.com/watch?v=PHRPoSRXPI0) (13 min video) 
+#### Ethereum
+
+* [Ethereum: What is Wallet connect?](https://www.youtube.com/watch?v=PHRPoSRXPI0) (13 min video) 
+* [Ethereum: Wallet connect SDK](https://github.com/WalletConnect) (Github)
+* [Ethereum/Solana: Coinbase Wallet SDK](https://github.com/coinbase/coinbase-wallet-sdk) (Github) 
+
+#### Solana
+* [Solana wallet connection](https://solana-labs.github.io/wallet-adapter/) (Github) 
+
+#### Cardano
+One day... but for now: 
+* [Cardano DApp Wallet Connector - demo app and example code](https://forum.cardano.org/t/cardano-dapp-wallet-connector-demo-app-and-example-code/95691) (Forum)
 
 # Appendix
 

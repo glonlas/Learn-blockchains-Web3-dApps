@@ -43,6 +43,9 @@ Feel free to send your pull-requests to add new content you think relevant to th
     - [Energy consumption and environmental footprint](#energy-consumption-and-environmental-footprint)
     - [Security exploit and past errors to be aware of](#security-exploit-and-past-errors-to-be-aware-of)
     - [Various articles on the Blockchain/Web3.0 economy](#various-articles-on-the-blockchainweb30-economy)
+    - [Crypto regulations and Travel Rules](#crypto-regulations-and-travel-rules)
+        - [Regulations](#regulations)
+        - [Travel Rules](#travel-rules)
 
 <!-- /TOC -->
 
@@ -298,3 +301,13 @@ On this topic I found the following articles, but please free to add your in com
 
 1. [Tokens are a new digital primitive, analogous to the website](https://cdixon.mirror.xyz/0veLm9KKWae4T6_H3siLpKF933NSdC3F75jhPQw_qWE) (Article)
 2. [What is Olympus Pro (Bond as a service, Liquidity provide)](https://olympusdao.medium.com/introducing-olympus-pro-d8db3052fca5) (Article)
+
+## Crypto regulations and Travel Rules
+
+### Regulations
+* [MiCA: A Guide to the EU’s Proposed Markets in Crypto-Assets Regulation](https://www.sygna.io/blog/what-is-mica-markets-in-crypto-assets-eu-regulation-guide/) (Article)
+* [Korean crypto exchange Coinone will no longer allow withdrawals to unverified external wallets](https://www.theblockcrypto.com/post/128735/korea-crypto-exchange-%E2%80%8Ecoinone-withdrawals-external-wallets) (Article)
+
+### Travel Rules
+* [Guide to the FATF Travel Rule for Cryptocurrency](https://ciphertrace.com/the-complete-guide-to-the-fatf-travel-rule-for-cryptocurrency/) (Article)
+* [European Parliament Proposes Expanding 'Travel Rule' to Every Single Crypto Transaction](https://www.coindesk.com/policy/2022/03/07/european-parliament-proposes-expanding-travel-rule-to-every-single-crypto-transaction/) (Article)

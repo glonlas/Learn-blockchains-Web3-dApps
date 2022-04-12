@@ -278,6 +278,7 @@ On this topic I found the following articles, but please free to add your in com
 2. [Bitcoin average energy consumption per transaction compared to that of VISA as of October 21, 2021](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/) (even if Bitcoin does not present any interest on Web3 for now)
 3. [Solana’s Energy Use Report: November 2021](https://solana.com/news/solana-energy-usage-report-november-2021)
 4. [Tezos Excels As An Energy-Efficient Blockchain According To New PWC Report](https://xtz.news/latest-tezos-news/tezos-excels-as-energy-efficient-blockchain-according-to-new-pwc-report/)
+5. [Why the debate about crypto's energy consumption is flawed](https://www.weforum.org/agenda/2022/03/crypto-energy-consumption/)
 
 ## Security exploit and past errors to be aware of
 

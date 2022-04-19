@@ -184,12 +184,12 @@ In 2015 when Ethereum started it had only 3 boot nodes (seems to be still the ca
 
 #### DAO (Decentralized Autonomous Organization)
 
-1. [What is a DOA](https://www.youtube.com/watch?v=ubZKD_BAvpo) (2 min video)
+1. [What is a DAO](https://www.youtube.com/watch?v=ubZKD_BAvpo) (2 min video)
 2. [Dive deep is all type of a DAO](https://www.youtube.com/watch?v=MFEXFvCFywc) (22 min video)
 
 ### Rebase DAO
 
-1. [What is OlympusDOA](https://docs.olympusdao.finance/main/) (The project that created this trend)
+1. [What is OlympusDAO](https://docs.olympusdao.finance/main/) (The project that created this trend)
 2. [Dive deep into Rebase DAO Tokenomics](https://www.youtube.com/watch?v=-ZodrK_V8Fw&t=1s&ab_channel=SiamKidd)
 
 ### Oracles

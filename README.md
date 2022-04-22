@@ -1,4 +1,4 @@
-# Crypto/DeFi/Web3.0 Web 3.0 learning content
+# Crypto/DeFi/Web3.0 learning content
 **Welcome to this Crypto/DeFi/Web3.0 ramp-up page**  
 This page provides information on Crypto / DeFi / Web3.0 / and Tokenomics. It is a list of curated articles and videos you can follow at your own pace.
 

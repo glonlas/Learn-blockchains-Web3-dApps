@@ -8,7 +8,7 @@ Feel free to send your pull-requests to add new content you think relevant to th
 ## Table of content
 <!-- TOC -->
 
-- [Crypto/DeFi/Web3.0 Web 3.0 learning content](#cryptodefiweb30-web-30-learning-content)
+- [Crypto/DeFi/Web3.0 learning content](#cryptodefiweb30-learning-content)
     - [How to contribute?](#how-to-contribute)
     - [Table of content](#table-of-content)
     - [Understand what is a blockchain](#understand-what-is-a-blockchain)
@@ -72,7 +72,7 @@ Feel free to send your pull-requests to add new content you think relevant to th
         1. [Advantage of Avalanche - a high TPS EMV blockchain](https://cryptobriefing.com/what-is-avalanche-the-layer-1-blockchains-ecosystem-unpacked/) (Article)
     5. [What is Fantom blockchain](https://www.youtube.com/watch?v=wPFjbhyLpCY&ab_channel=CoinBureau) (24 min video)
     6. [What is NEAR blockchain](https://www.youtube.com/watch?v=r61UszUFwNY) (21 min video)
-        1. [NEAR: Protocol Economics Design](https://www.youtube.com/watch?v=65CKc39lNTw) (18 min video)
+        1. [NEAR: Protocol Economics Design](https://www.youtube.com/watch?v=6fKY5TaiakM) (18 min video - Updated on 23 Apr 2022)
         1. [NEAR: Open the web concept](https://www.youtube.com/watch?v=s3lhhyNCRwU) (17 min video)
 5. Layer 2 Blockchain (Parachain):
     1. [What is a Layer-2 blockchain](https://www.youtube.com/watch?v=9pJjtEeq-N4) (8 min video)
